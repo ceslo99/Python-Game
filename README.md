@@ -10,3 +10,4 @@ Time is use to keep score of player.
 * Was able to add images instead of just using rectangle for player.
 
 ![](gameView.png)
+![](gameViewMario.png)
